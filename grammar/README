@@ -1,5 +1,5 @@
-rot13.ipynb: ROT-13 encoder
-customer.ipynb: customer classifier
-morse.ipynb: morse encoder
-leapyear.ipynb: leapyear detector
-fibonacci.ipynb: fibonacci series
+* rot13.ipynb: ROT-13 encoder
+* customer.ipynb: customer classifier
+* morse.ipynb: morse encoder
+* leapyear.ipynb: leapyear detector
+* fibonacci.ipynb: fibonacci series
